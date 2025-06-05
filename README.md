@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Liam 👋
 
-<!--
-**peynadol/peynadol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught junior software engineer based in Wolverhampton (UK), transitioning from a 10-year career in GIS. 
 
-Here are some ideas to get you started:
+Currently building modern web applications with **JavaScript**, **React**, **TypeScript**, and learning more backend technologies (Node.js, PostgreSQL, Python).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+### 🎯 What I'm looking for
+
+I'm currently seeking **junior front-end / full-stack roles** where I can contribute, grow my skills, and work with modern web technologies (React, TypeScript, Node).
+
+---
+
+### 🌱 What I'm working on
+
+- Building my portfolio with interactive and data-driven web apps
+- Strengthening my React + TypeScript skills
+- Exploring backend development (Node.js, Express, PostgreSQL)
+- Practicing testing with Playwright and Vitest
+
+---
+
+
+### 🔗 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/liam-peynado-7947b435a/)
+
+---
+
+Thanks for visiting my profile!
+
+
+
+
