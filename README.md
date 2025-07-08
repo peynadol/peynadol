@@ -4,6 +4,8 @@ I'm a self-taught junior software engineer based in Wolverhampton (UK), transiti
 
 Currently building modern web applications with **JavaScript**, **React**, **TypeScript**, and learning more backend technologies (Node.js, PostgreSQL, Python).
 
+[Portfolio Here](https://www.peynadol.uk/)
+
 ---
 
 
